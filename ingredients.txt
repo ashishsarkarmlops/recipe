@@ -1,4 +1,4 @@
 ingredients
 1) coffee
-2) milk
-3) sugar
+2) milk add 250 gm
+3) sugar add 10 gm
